@@ -1,0 +1,1675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>2672960091</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+            <file>$PROJ_DIR$\..\..\des\spr.h</file>
+            <file>$PROJ_DIR$\system_pre_init.c</file>
+            <file>$PROJ_DIR$\..\..\tag\aes.c</file>
+            <file>$PROJ_DIR$\..\..\tag\bit.c</file>
+            <file>$PROJ_DIR$\..\..\tag\simple_cipher.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\..\..\tag\rc4.c</file>
+            <file>$PROJ_DIR$\..\..\tag\tag_read.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\nfc_app.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\ndef.c</file>
+            <file>$PROJ_DIR$\..\..\comm\comm.c</file>
+            <file>$PROJ_DIR$\..\..\des\des.c</file>
+            <file>$PROJ_DIR$\..\..\des\des_enc.c</file>
+            <file>$PROJ_DIR$\..\..\des\ecb_enc.c</file>
+            <file>$PROJ_DIR$\..\..\des\set_key.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\mcu.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\spi.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\trf79xxa.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\uart.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\VLO_Library.s43</file>
+            <file>$PROJ_DIR$\..\..\NFC\felica.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443a.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443b.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso15693.c</file>
+            <file>$PROJ_DIR$\..\..\ant\antenna.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443a.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\nfc_app.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430g2553.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ecb_enc.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso14443b.r43</file>
+            <file>$PROJ_DIR$\..\..\tag\tag_read.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\tag_read.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\trf79xxa.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\set_key.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ndef.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_pre_init.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\ndef.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\nfc_app.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\des.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdbool.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi.pbi</file>
+            <file>$PROJ_DIR$\..\..\NFC\ndef.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\tag_read.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\air_cleaner.ulp</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\des.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\uart.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\bit.pbi</file>
+            <file>$PROJ_DIR$\..\..\tag\simple_cipher.h</file>
+            <file>$PROJ_DIR$\..\..\des\des.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\felica.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso14443a.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\des.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\VLO_Library.asm</file>
+            <file>$PROJ_DIR$\Debug\Exe\air_cleaner.a43</file>
+            <file>$PROJ_DIR$\Debug\Obj\simple_cipher.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\air_cleaner.d43</file>
+            <file>$PROJ_DIR$\..\..\Hardware\types.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\mcu.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\rc4.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\aes.r43</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\VLO_Library.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ecb_enc.pbi</file>
+            <file>$PROJ_DIR$\..\..\Hardware\trf79xxa.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\comm.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso15693.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\air_cleaner.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso15693.r43</file>
+            <file>$PROJ_DIR$\..\..\comm\comm.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\comm.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\mcu.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_pre_init.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\des_enc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\des_enc.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\aes.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\felica.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+            <file>$PROJ_DIR$\..\..\tag\des.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\mcu.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rc4.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rc4.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso14443b.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\trf79xxa.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\set_key.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\nfc_app.pbi</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443b.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\felica.h</file>
+            <file>$PROJ_DIR$\..\..\tag\rc4.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\trf79xxa.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\des_enc.pbi</file>
+            <file>$PROJ_DIR$\..\..\tag\bit.h</file>
+            <file>$PROJ_DIR$\..\..\tag\aes.h</file>
+            <file>$PROJ_DIR$\..\..\des\des_locl.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\mcu.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso14443a.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\bit.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\bit.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\tag_read.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\simple_cipher.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+            <file>$PROJ_DIR$\..\..\Hardware\uart.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\set_key.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\simple_cipher.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso14443a.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso15693.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\nfc_app.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\aes.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_pre_init.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ecb_enc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso14443b.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\VLO_Library.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\felica.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\tag\des.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\comm.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\uart.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ndef.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\air_cleaner.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\iso15693.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 62 76</file>
+                </tool>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system_pre_init.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 82 139 60 58</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58 139 82 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\aes.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 123</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 79 132 140 29 113 142 37 95 120 105</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 140 120 105 29 95 79 37 113 142</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\bit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 109</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 110</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 79 132 140 29 113 142 37 95 120 104</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 140 37 113 104 120 142 79 29 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\simple_cipher.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 112</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 53</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 136</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 42 26 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115 46 99 121 100 78 25 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72 41 37 132 115 44 25 121 70 58 113 66 26 139 60 0 140 142 78 33 99 100 46 80 65 82 69 120 29 95 42</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\rc4.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 67</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 101</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\tag_read.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 111</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 79 132 140 29 113 142 37 95 120 65 0 41 69 44 26 72 80 66 139 60 58 82 70 115 46 54 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140 66 33 44 41 80 58 69 26 29 95 0 46 65 54 132 120 37 113 142 72 115 139 70 60 79 82</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\nfc_app.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 122</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 98</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 42 26 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115 46 99 121 100 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26 139 72 60 0 140 142 121 115 70 58 44 41 132 37 113 33 99 100 46 80 66 65 82 69 120 29 95 42</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\ndef.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 134</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 46 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65 72 115 66 58 82 140 142 132 80 139 70 60 69 41 37 113 46 0 44 120 29 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\comm\comm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 131</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 139 60 58 82 0 132 140 29 113 142 37 95 120 41 69 79 33 78 65 44 66 70</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58 33 140 0 69 66 60 41 132 37 65 79 78 82 120 29 95 44 139 113 142 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\des.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 54 69 132 140 29 113 142 37 95</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 69 95 140 29 54 37 113 142</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\des_enc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 86</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 103</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 106 0 132 140 29 113 142 37 95 120 41 125 79 69 1 54</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 0 140 54 79 41 29 37 1 125 69 132 120 106 113 142</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\ecb_enc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 126</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 106 0 132 140 29 113 142 37 95 120 41 125 79 69 54</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 125 120 132 69 37 54 0 79 140 41 29 106 113 142</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\set_key.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 54 69 132 140 29 113 142 37 95 106 0 120 41 125 79</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 69 140 37 142 120 106 29 113 125 54 95 0 79 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\mcu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 107</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 72 80 115</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 0 140 60 120 139 132 115 70 58 44 29 95 72 65 82 69 41 37 113 142 80 66</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 117</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 72 115</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 0 140 66 60 120 139 132 70 58 44 29 95 80 72 65 82 69 41 37 113 142 115</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\trf79xxa.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 139 72 60 80 70 58 82 140 142 132 115 66 65 69 41 37 113 0 44 120 29 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 135</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 133</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 115 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60 69 139 132 66 58 120 37 142 140 65 82 113 115 70 0 41 29 95 44</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\VLO_Library.s43</name>
+            <outputs>
+                <tool>
+                    <name>A430</name>
+                    <file> 128</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>A430</name>
+                    <file> 139 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\felica.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 100 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58 65 82 140 72 80 66 69 41 142 132 115 139 70 60 0 44 120 37 113 100 29 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\iso14443a.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 108</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 26 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72 142 60 140 132 139 82 46 80 70 58 115 66 65 69 41 37 113 26 0 44 120 29 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\iso14443b.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 127</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 99 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80 70 60 0 120 140 46 72 139 58 44 132 29 95 66 115 65 82 69 41 37 113 142 99</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\iso15693.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 138</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 121 72 80 66 139 60 58 82 65 0 132 140 29 113 142 37 95 120 41 69 44 70 115</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80 66 65 58 82 140 142 132 72 115 139 70 60 69 41 37 113 121 0 44 120 29 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\VLO_Library.asm</name>
+            <outputs>
+                <tool>
+                    <name>A430</name>
+                    <file> 128</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\air_cleaner.a43</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 28 109 73 43 86 30 108 136 107 134 122 36 74 39 34 102 128 114</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\air_cleaner.d43</name>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 28 109 73 43 86 30 108 136 107 134 122 36 74 39 34 102 128 114</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\des.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 56 132 141 140 29 113 142 37 95 89 125 120 79 104 90</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90 89 132 29 95 79 140 125 104 141 37 56 113 142 120</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\tag\aes.c</name>
+            <tool>ICC430</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\tag\simple_cipher.c</name>
+            <tool>ICC430</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\tag\rc4.c</name>
+            <tool>ICC430</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\NFC\felica.c</name>
+            <tool>ICC430</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\NFC\iso14443b.c</name>
+            <tool>ICC430</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\NFC\iso15693.c</name>
+            <tool>ICC430</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\Hardware\VLO_Library.asm</name>
+            <tool>A430</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\tag\simple_cipher.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\des\des.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\des\des_enc.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\des\ecb_enc.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\des\set_key.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\NFC\felica.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\NFC\iso14443b.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\NFC\iso15693.c</name>
+            <tool>C-STAT</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+            <file>$PROJ_DIR$\..\..\des\spr.h</file>
+            <file>$PROJ_DIR$\system_pre_init.c</file>
+            <file>$PROJ_DIR$\..\..\tag\aes.c</file>
+            <file>$PROJ_DIR$\..\..\tag\bit.c</file>
+            <file>$PROJ_DIR$\..\..\tag\simple_cipher.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\..\..\tag\rc4.c</file>
+            <file>$PROJ_DIR$\..\..\tag\tag_read.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\nfc_app.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\ndef.c</file>
+            <file>$PROJ_DIR$\..\..\comm\comm.c</file>
+            <file>$PROJ_DIR$\..\..\des\des.c</file>
+            <file>$PROJ_DIR$\..\..\des\des_enc.c</file>
+            <file>$PROJ_DIR$\..\..\des\ecb_enc.c</file>
+            <file>$PROJ_DIR$\..\..\des\set_key.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\mcu.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\spi.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\trf79xxa.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\uart.c</file>
+            <file>$PROJ_DIR$\..\..\Hardware\VLO_Library.s43</file>
+            <file>$PROJ_DIR$\..\..\NFC\felica.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443a.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443b.c</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso15693.c</file>
+            <file>$PROJ_DIR$\..\..\ant\antenna.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443a.h</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430g2553.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\tag\tag_read.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\nfc_app.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdbool.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\ndef.h</file>
+            <file>$PROJ_DIR$\..\..\tag\simple_cipher.h</file>
+            <file>$PROJ_DIR$\..\..\des\des.h</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\types.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\mcu.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\VLO_Library.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\trf79xxa.h</file>
+            <file>$PROJ_DIR$\..\..\comm\comm.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+            <file>$PROJ_DIR$\..\..\Hardware\spi.h</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso14443b.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\felica.h</file>
+            <file>$PROJ_DIR$\..\..\tag\rc4.h</file>
+            <file>$PROJ_DIR$\..\..\tag\bit.h</file>
+            <file>$PROJ_DIR$\..\..\tag\aes.h</file>
+            <file>$PROJ_DIR$\..\..\des\des_locl.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+            <file>$PROJ_DIR$\..\..\Hardware\uart.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\NFC\iso15693.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Release\Obj\ecb_enc.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\tag_read.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\iso14443a.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\des.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\bit.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\ecb_enc.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\iso14443a.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\iso15693.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\mcu.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\bit.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\simple_cipher.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\des.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\iso15693.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\set_key.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\simple_cipher.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\iso14443b.r43</file>
+            <file>$PROJ_DIR$\Release\Exe\air_cleaner.ulp</file>
+            <file>$PROJ_DIR$\Release\Obj\ndef.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\simple_cipher.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\nfc_app.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\spi.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\iso14443b.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\bit.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\felica.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\trf79xxa.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\rc4.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\VLO_Library.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\nfc_app.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\mcu.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\comm.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\comm.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\main.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\felica.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\comm.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\felica.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\trf79xxa.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\spi.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\ecb_enc.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\rc4.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\spi.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\tag_read.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\des_enc.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\trf79xxa.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\mcu.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\aes.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\nfc_app.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\set_key.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\uart.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\iso14443a.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\des_enc.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\set_key.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\ndef.r43</file>
+            <file>$PROJ_DIR$\Release\List\air_cleaner.map</file>
+            <file>$PROJ_DIR$\Release\Obj\uart.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\aes.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\ndef.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\des_enc.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\rc4.r43</file>
+            <file>$PROJ_DIR$\Release\Exe\air_cleaner.txt</file>
+            <file>$PROJ_DIR$\Release\Obj\tag_read.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\aes.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\des.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\uart.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\system_pre_init.r43</file>
+            <file>$PROJ_DIR$\Release\Obj\system_pre_init.pbi</file>
+            <file>$PROJ_DIR$\Release\Obj\system_pre_init.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\iso15693.__cstat.et</file>
+            <file>$PROJ_DIR$\Release\Obj\iso14443b.pbi</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 119 125</file>
+                </tool>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system_pre_init.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 130</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 131</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 132</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 47 62 38 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37 62 47 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\aes.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 127</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 121</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 110</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 61 63 28 55 64 30 48 58 53</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61 63 58 53 28 48 45 30 55 64</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\bit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 61 63 28 55 64 30 48 58 52</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61 63 30 55 52 58 64 45 28 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\simple_cipher.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 84</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 35</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 113</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 32 26 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57 34 49 59 50 44 25 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61 59 25 43 57 40 41 58 26 39 37 47 28 48 44 29 49 50 34 46 62 42 38 0 33 63 31 30 55 64 32</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\rc4.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\tag\tag_read.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 126</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45 61 63 28 55 64 30 48 58 39 0 31 41 33 26 43 46 40 62 38 37 47 42 57 34 36 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41 43 58 29 61 64 62 37 26 30 55 57 42 38 39 36 40 63 28 48 0 33 31 34 46 45 47</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\nfc_app.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 85</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 111</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 32 26 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57 34 49 59 50 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 41 43 40 58 59 26 39 37 47 61 28 48 29 49 50 34 46 62 42 38 0 33 63 31 30 55 64 32</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\ndef.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 122</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 34 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43 42 38 57 62 37 47 63 64 61 46 40 39 41 31 30 55 34 0 33 58 28 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\comm\comm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 96</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 99</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 62 38 37 47 0 61 63 28 55 64 30 48 58 31 41 45 29 44 39 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63 29 61 28 41 33 37 47 58 48 0 45 44 38 31 62 30 55 64 39</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\des.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 128</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 36 41 61 63 28 55 64 30 48</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61 41 48 63 28 36 30 55 64</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\des_enc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 116</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 123</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 107</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 54 0 61 63 28 55 64 30 48 58 31 60 45 41 1 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48 0 63 36 45 31 28 30 1 60 41 61 58 54 55 64</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\ecb_enc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 103</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 54 0 61 63 28 55 64 30 48 58 31 60 45 41 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48 60 58 61 41 30 36 0 45 63 31 28 54 55 64</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\des\set_key.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 117</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 112</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 36 41 61 63 28 55 64 30 48 54 0 58 31 60 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61 41 63 30 64 58 54 28 55 60 36 48 0 45 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\mcu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 109</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 43 46 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37 46 39 47 63 64 61 41 31 30 55 43 62 42 38 0 33 58 28 48 57 40</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 105</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 43 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33 40 46 62 37 61 28 48 42 38 0 58 63 43 39 47 41 31 30 55 64 57</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\trf79xxa.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 90</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 108</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37 39 46 40 47 63 64 61 57 43 62 42 38 41 31 30 55 0 33 58 28 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 129</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 114</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 57 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38 41 62 61 40 37 58 30 64 63 39 47 55 57 42 0 31 28 48 33</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Hardware\VLO_Library.s43</name>
+            <outputs>
+                <tool>
+                    <name>A430</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>A430</name>
+                    <file> 62 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\felica.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 100</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 50 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37 39 47 63 43 46 40 41 31 64 61 57 62 42 38 0 33 58 30 55 50 28 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\iso14443a.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 115</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 26 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64 39 63 61 37 47 34 46 40 43 57 62 42 38 41 31 30 55 26 0 33 58 28 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\iso14443b.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 134</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 49 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46 42 38 0 58 63 34 43 62 37 33 61 28 48 40 57 39 47 41 31 30 55 64 49</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\NFC\iso15693.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 133</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 59 43 46 40 62 38 37 47 39 0 61 63 28 55 64 30 48 58 31 41 33 42 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46 40 39 37 47 63 64 61 43 57 62 42 38 41 31 30 55 59 0 33 58 28 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\air_cleaner.txt</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 27 127 69 96 68 116 103 89 71 81 77 97 94 118 85 124 117 84 102 130 126 90 129 92 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>
